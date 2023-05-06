@@ -1,4 +1,4 @@
-package com.tin.admin.domain;
+package com.tin.admin.domain.entity;
 
 public class fzt {
     String name;
