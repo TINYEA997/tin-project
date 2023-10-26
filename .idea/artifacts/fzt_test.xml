@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fzt_test">
+    <output-path>$PROJECT_DIR$/out/artifacts/fzt_test</output-path>
+    <root id="archive" name="fzt_test.jar">
+      <element id="directory" name="com.tin.admin">
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/com/tin/admin/Application.class" />
+      </element>
+    </root>
+  </artifact>
+</component>
