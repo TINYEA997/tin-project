@@ -7,4 +7,5 @@ public class coach {
     Integer first;
     Integer second;
     Integer third;
+    String fzt;
 }
