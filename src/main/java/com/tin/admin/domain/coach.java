@@ -6,4 +6,5 @@ public class coach {
     Integer number;
     Integer first;
     Integer second;
+    Integer third;
 }
