@@ -8,4 +8,5 @@ public class coach {
     Integer second;
     Integer third;
     String fzt;
+    String lzy;
 }
