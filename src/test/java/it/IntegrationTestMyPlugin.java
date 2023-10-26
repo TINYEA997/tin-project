@@ -1,10 +1,10 @@
 package it;
 
-import junit.framework.TestCase;
 
-public class IntegrationTestMyPlugin extends TestCase
+public class IntegrationTestMyPlugin
 {
 	public void testSomething()
 	{
+		System.out.println("fztcnm");
 	}
 }
