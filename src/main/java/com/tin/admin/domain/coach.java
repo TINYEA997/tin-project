@@ -5,4 +5,5 @@ public class coach {
     String address;
     Integer number;
     Integer first;
+    Integer second;
 }
